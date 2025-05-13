@@ -3,7 +3,7 @@
 
 **NIM:** D121241083
 
-**PROBLEM LINK:** [Down To Zero II - HackerRank] (https://www.hackerrank.com/challenges/down-to-zero-ii/problem?isFullScreen=true)
+**PROBLEM LINK:** [Down To Zero II - HackerRank] (https://www.hackerrank.com/challenges/down-to-zero-ii/problem)
 
 **DIFFICULTY:** Medium
 
